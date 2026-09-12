@@ -1,6 +1,4 @@
 <!-- ===================== BANNER CUSTOM (neon/gamer) ===================== -->
-<!-- File banner.svg ada di sini juga — upload ke folder /assets di repo kamu, -->
-<!-- lalu ganti src di bawah dengan: assets/banner.svg -->
 <p align="center">
   <img src="banner.svg" width="100%" alt="Banner"/>
 </p>
@@ -12,7 +10,7 @@
   </a>
 </p>
 
-<!-- ===================== SOSIAL MEDIA (isi link kamu) ===================== -->
+<!-- ===================== SOSIAL MEDIA ===================== -->
 <p align="center">
   <a href="https://www.instagram.com/okan_syailendra0/"><img src="https://img.shields.io/badge/Instagram-0A0E14?style=for-the-badge&logo=instagram&logoColor=FF4655"/></a>
   <a href="https://www.linkedin.com/in/okan-syailendra-wahyudi-8b565a343"><img src="https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=FF4655"/></a>
@@ -47,7 +45,6 @@
 <td width="40%" valign="top" align="center">
 
 <!-- WADAH FOTO KAMU -->
-<!-- Ganti src di bawah dengan foto/avatar kamu -->
 <img src="foto.webp" width="220" style="border-radius: 10px; border: 2px solid #FF4655;" alt="Foto Profil"/>
 
 </td>
@@ -69,7 +66,7 @@
 ### 📊 Match Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Okansyailendra&show_icons=true&hide_border=true&bg_color=0A0E14&title_color=FF4655&icon_color=FF4655&text_color=9FB3C8&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Okansyailendra&show_icons=true&hide_border=true&bg_color=0A0E14&title_color=FF4655&icon_color=FF4655&text_color=9FB3C8"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okansyailendra&layout=compact&hide_border=true&bg_color=0A0E14&title_color=FF4655&text_color=9FB3C8"/>
 </p>
 
@@ -77,7 +74,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Okansyailendra&hide_border=true&background=0A0E14&stroke=FF4655&ring=FF4655&fire=FF4655&currStreakLabel=FF4655&sideLabels=9FB3C8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=4A5568" alt="streak stats"/>
 </p>
 
-<!-- ===================== SNAKE ANIMATION (opsional, perlu 1x setup Action) ===================== -->
+<!-- ===================== SNAKE ANIMATION ===================== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Okansyailendra/Okansyailendra/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
