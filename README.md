@@ -45,7 +45,7 @@
 <td width="45%" valign="top" align="center">
 
 <!-- WADAH FOTO KAMU -->
-<img src="foto.webp" width="100%" style="max-width: 320px; aspect-ratio: 1/1; object-fit: cover; border-radius: 10px; border: 2px solid #FF4655;" alt="Foto Profil"/>
+<img src="foto.webp" width="380" style="border-radius: 10px; border: 2px solid #FF4655;" alt="Foto Profil"/>
 
 </td>
 </tr>
